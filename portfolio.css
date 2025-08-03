@@ -1,0 +1,27 @@
+
+h1{
+    text-align: center;
+    font-size: 2.5rem; 
+    color: pink     
+
+}
+h2{
+    text-align: center;
+    font-size: 2rem; 
+    color: blue
+}
+p{
+    text-align: center;
+    font-size: 1.2rem; 
+    color: black
+}
+li{
+    text-align: center;
+    font-size: 1.2rem; 
+    color: black
+}
+h3{
+    text-align: center;
+    font-size: 1.5rem; 
+    color: green
+}
