@@ -23,15 +23,7 @@ Welcome to my personal portfolio website! This project is a responsive and moder
 ## 🛠️ Built With
 
 - HTML5
-- CSS3
-- JavaScript (optional if used)
-- (Add frameworks like Bootstrap, Tailwind, or React if applicable)
-
----
-
-## 📁 Folder Structure
-
-)
+- CSS
 
 ---
 
@@ -52,5 +44,8 @@ Welcome to my personal portfolio website! This project is a responsive and moder
 
 ---
 
-## 📁 Folder Structure
+🧑‍💻 Author
+Priya Phulpagar
+📧 Email: phulpagarpriya04@gmail.com
+🔗 GitHub: @PRIYA-PHULPAGAR
 
